@@ -69,6 +69,7 @@ deepmind
 chatgpt
 openai
 sora
+开源
 
 claude
 Anthropic
